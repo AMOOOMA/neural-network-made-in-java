@@ -21,6 +21,7 @@ the sigmoid function and how weights and biases are used.
 <img src="/images/sigmoid defi.png" width="60%">
 
 After knowing the underlying mathematics, check out the [documentation]() for how to use this project.
+Note: the neural network is not built with matrix, rather with simple for loop and nodes. 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
