@@ -3,7 +3,7 @@ This repo mostly serve as educational proposes, project itself is a implementati
 
 ## Getting Started
 First, bear with me through the mathematical model behind this project. It's crucial for understanding and using the library. 
-To better understand back propagtion and neural network, I recommend checking out [3Blue1Brown's video series](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi). Feel free to skip this part if you are already familiar with the math behind neural network.
+To better understand back propagation and neural network, I recommend checking out [3Blue1Brown's video series](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi). Feel free to skip this part if you are already familiar with the math behind neural network.
 
 ### The Cost function
 <img src="/images/Cost.png" width="60%">
