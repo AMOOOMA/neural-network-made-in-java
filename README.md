@@ -1,4 +1,4 @@
-# neural-network-made-in-java
+# Neural-network-made-in-java
 This repo mostly serve as educational proposes, project itself is a implementation of one layer neural network (and can also be modified to be convulotional neural network). I made this solely for practicing and help other students understand the concept of machine learning with neural network.
 
 ## Getting Started
