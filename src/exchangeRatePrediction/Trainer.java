@@ -24,9 +24,12 @@ public class Trainer {
         outputLayer = new Node[outputLayerNodeCount];
         activation = new double[hiddenLayerNodeCount];
         desireHiddenLayerActivation = new double[hiddenLayerNodeCount];
-        Node n = new Node(0.5, data[0].length - 1);
-        Node no = new Node(0.5, activation.length);
-        Arrays.fill(hiddenLayer, n); Arrays.fill(outputLayer, no);
+        for (int i = 0; i < hiddenLayerNodeCount; i++) {
+            hiddenLayer[i] = new Node(0.5, data[0].length - 1);
+        }
+        for (int i = 0; i < outputLayerNodeCount; i++) {
+            outputLayer[i] = new Node(0.5, activation.length);
+        }
     }
 
     /**
