@@ -1,5 +1,5 @@
 # Documentation of the project
-This is the docuementation for using this project. For import, you can directly use IntelliJ to import this project.
+This is the docuementation for using this project. For import, you can directly use IntelliJ to import this project. (Note: the project included a sample of test data set and exchange rate data for training.)
 ## Data Parser class
 Data Parser takes csv file path as an input and use the built-in node class to construct an arrayList of nodes of data.
 Node class is defined as follows: 
