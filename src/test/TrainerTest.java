@@ -1,7 +1,7 @@
 import org.junit.jupiter.api.Test;
 
 class TrainerTest {
-    DataParser dP = new DataParser("src\\data-daily.csv");
+    DataParser dP = new DataParser("src\\test.csv");
     DataConstructor d = new DataConstructor(dP.data, 30);
 
     @Test
